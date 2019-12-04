@@ -32,11 +32,11 @@
 
 def naming_system
   creatures = {
-    :Label => "Kingdom",
+    :label => "Kingdom",
     :sub_category =>{
-      :Label => "Phylum",
+      :label => "Phylum",
       :sub_category =>{
-        :Label => "Class",
+        :label => "Class",
         :sub_category =>{
           :Label => "Order"
         }
